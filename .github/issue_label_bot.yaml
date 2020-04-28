@@ -1,0 +1,8 @@
+ 
+# for https://mlbot.net
+# TODO(jlewi): Does label bot actually reference .github/.github/issue_label_bot.yaml?
+label-alias:
+  bug: 'kind/bug'
+  feature_request: 'kind/feature'
+  feature: 'kind/feature'
+  question: 'kind/question'
